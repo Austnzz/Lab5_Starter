@@ -1,5 +1,5 @@
 // expose.js
-
+const jsConfetti = new JSConfetti();
 window.addEventListener('DOMContentLoaded', init);
 
 function init() 
@@ -59,7 +59,6 @@ function onPlayClick()
 
   if (hornSelect.value === 'party-horn') 
   {
-    const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti();
   }
 }

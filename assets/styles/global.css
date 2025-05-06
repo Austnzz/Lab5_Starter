@@ -96,13 +96,3 @@ main>section {
   grid-template-areas: 'slider icon';
   grid-template-columns: 80% 15%;
 }
-
-canvas[jsconfetti] {
-  position: fixed !important;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  pointer-events: none;
-  z-index: 9999;
-}
