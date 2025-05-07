@@ -7,3 +7,7 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 1. No, i wouldn't. It's not really ideal because a whole emssage feature has many layers, including UI, networking, database, and many more components.
 2. For a max message length, a unit tests works. Since it is a singular function, that prevents 80+ chars, it is much easier to isolate and test only this.
 
+
+***Links:***
+**Expose:** [Link1](https://austnzz.github.io/Lab5_Starter/expose.html)
+**Explore:** [Link2](https://austnzz.github.io/Lab5_Starter/explore.html)
